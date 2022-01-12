@@ -92,6 +92,7 @@ class xstremeGroundorHaloDialog
 			alphaFadeStartScale = 1.15;
 			alphaFadeEndScale = 1.29;
 			colorOutside[] = {0.0,0.0,0.0,1.0};
+			widthRailWay = 1;
 		};
 		class textbar: xsSpawnRscStructuredText
 		{
